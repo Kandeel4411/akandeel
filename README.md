@@ -1,2 +1,2 @@
 # akandeel
-Personal portfolio
+Personal portfolio based on [gitfolio](https://github.com/imfunniee/gitfolio)
